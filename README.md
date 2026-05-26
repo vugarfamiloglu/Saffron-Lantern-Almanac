@@ -254,4 +254,19 @@ half-integrated scheduler adapters.
 
 ## License
 
-Apache 2.0 — see [LICENSE](LICENSE). Copyright 2026 Vugar Familoglu.
+Saffron Lantern Almanac is **dual-licensed**:
+
+- **[LICENSE](LICENSE)** — Apache License 2.0. This is the default for everyone.
+  Use, modify, redistribute, and run commercially at zero cost. Attribution
+  notices must be preserved per the Apache terms.
+
+- **[LICENSE-COMMERCIAL](LICENSE-COMMERCIAL.md)** — Optional paid commercial
+  offering with warranty, IP indemnification, priority support, attribution
+  waiver for white-label deployments, and custom integration assistance.
+  Almost no one needs this — Apache 2.0 already grants commercial use. It
+  exists for organisations whose legal teams require formal warranty +
+  indemnification language that open-source licenses cannot provide.
+
+Contact for the commercial tier: **vuqar.qenberov@gmail.com**.
+
+Copyright 2026 Vugar Familoglu.
