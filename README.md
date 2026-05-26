@@ -252,6 +252,16 @@ Halloween as burnt-orange-on-ink.
 These are deliberate scope cuts — getting the copy quality right beats
 half-integrated scheduler adapters.
 
+## Screenshots
+
+<img width="1904" height="909" alt="111" src="https://github.com/user-attachments/assets/f3160539-eec0-43e2-8021-4f8b5323fdb9" />
+
+<img width="1904" height="908" alt="222" src="https://github.com/user-attachments/assets/f149325f-03cc-409c-8cd5-cc271cfc6bb7" />
+
+<img width="1903" height="912" alt="333" src="https://github.com/user-attachments/assets/dc626a83-54a3-4570-bee6-c1e80bad9ed7" />
+
+<img width="1919" height="910" alt="444" src="https://github.com/user-attachments/assets/b7ff8c16-3e0d-4f66-82b1-3c4645670765" />
+
 ## License
 
 Saffron Lantern Almanac is **dual-licensed**:
