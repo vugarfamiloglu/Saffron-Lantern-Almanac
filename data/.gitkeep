@@ -1,0 +1,2 @@
+# Saffron Lantern Almanac stores its SQLite database, encryption key,
+# and session secret here. Everything in data/ except this file is gitignored.
